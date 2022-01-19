@@ -2,6 +2,6 @@
 
 from GeneratePassword import GeneratePassword
 
-a = GeneratePassword("Jose", "Lopez", "11/01/1995",4)
+a = GeneratePassword("Yuvitza", "Moreno", "18/09/1987",3)
 print(a.generatePassword())
 
